@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # Personal_Portfolio
-=======
+
 # Sheeba Nasreen - Front End Developer Portfolio
 
 A modern, responsive portfolio website showcasing Sheeba Nasreen's skills, projects, and experience as a Front End Developer.
@@ -133,4 +133,4 @@ For any questions or suggestions about this portfolio template, please reach out
 ---
 
 **Note**: This portfolio is designed to showcase Sheeba Nasreen's skills and experience. All content is based on the provided resume and can be customized as needed. 
->>>>>>> 4230945 (Initial commit)
+
